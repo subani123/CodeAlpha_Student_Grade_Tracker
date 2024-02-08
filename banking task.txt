@@ -1,0 +1,16 @@
+Probelm Statement : Student Grade Tracker
+
+Develop a program that allows a teacher to enter students' grades and compute their average, highest, and lowest scores. You can use arrays or ArrayLists to store the student data.
+
+Probelm Solving:
+
+ 1. Input Grades      : The program should allow the teacher to input grades for each student. the teacher to enter each student's grade one by one. The input process should continue until the teacher decides to stop, typically by entering a specific value .
+
+ 2. Compute Average   : After the teacher has entered all the grades, the program should calculate the average grade of all the students. This involves summing up all the grades and dividing by the total number of students.
+
+ 3. Find Highest Grade: The program should determine the highest grade among all the entered grades. This can be done by iterating through the list of grades and finding the maximum value.
+
+
+ 4. Find Lowest Grade : Similarly, the program should find the lowest grade among all the entered grades. This involves iterating through the list of grades and finding the minimum value.
+
+ 5. Output Results    : Finally, the program should display the computed statistics to the teacher, including the average, highest, and lowest grades.
